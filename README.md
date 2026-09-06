@@ -1,5 +1,6 @@
 # qr
 二维码生成器
+
 1、下载https://github.com/fltk/fltk/releases/download/release-1.4.5/fltk-1.4.5-source.tar.gz
 解压后将fltk-1.4.5重命名文件夹为fltk
 2、下载stb_image_write.h与main.cpp同目录
