@@ -1,4 +1,0 @@
-// app.rc
-// 将 favicon.ico 编译进 EXE 中
-// IDI_ICON1 是资源的名称，ICON 表示类型，"favicon.ico" 是图标文件路径
-IDI_ICON1 ICON "favicon.ico"
