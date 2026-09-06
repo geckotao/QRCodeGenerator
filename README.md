@@ -1,5 +1,7 @@
 # 二维码生成器
 
+使用libqrencode及fltk库生成二维码
+
 项目结构如下：
 
 \qr
