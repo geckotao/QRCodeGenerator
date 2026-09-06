@@ -4,12 +4,19 @@
 项目结构如下：
 
 \qr
+
 ├── [文件]app.rc 
+
 ├── [文件]CMakeLists.txt
+
 ├── [文件]favicon.ico
+
 ├── [目录]fltk（由fltk.zip解压）
+
 ├── [目录]libqrencode
+
 ├── [文件]main.cpp
+
 └── [文件]stb_image_write.h
 
 
