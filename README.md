@@ -12,8 +12,6 @@
 
 ├── [文件]favicon.ico
 
-├── [目录]fltk（由fltk.zip解压）
-
 ├── [目录]libqrencode
 
 ├── [文件]main.cpp
